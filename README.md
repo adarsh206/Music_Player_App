@@ -16,6 +16,11 @@ Created Music Player App using HTML, CSS & JAVASCRIPT where you can enjoy music 
 11. one animation is also there when the song is playing in the song name section where time of the song is also there.
 12. some other section is also there like home, about etc.
 
+# Images:
+
+![image](https://github.com/adarsh206/Music_Player_App/assets/76390366/9f37681f-0f35-4aab-8f5c-28493ea3c685)
+![image](https://github.com/adarsh206/Music_Player_App/assets/76390366/ab79b994-abae-4c46-9263-29e570eb10a0)
+
  
 # How to use this project:
 
